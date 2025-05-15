@@ -1,0 +1,15 @@
+pip
+setuptools
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+scipy
+plotly
+streamlit
+kagglehub
+nltk
+keras
+tensorflow
+opencv-python
